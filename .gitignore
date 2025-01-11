@@ -33,10 +33,6 @@ Thumbs.db
 # Compiled C extensions
 *.so
 
-# Images or generated outputs
-output_image.jpg
-*.png
-*.jpg
 
 # Build directories (for compiled files or CMake builds)
 build/
