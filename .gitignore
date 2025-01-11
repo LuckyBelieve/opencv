@@ -26,17 +26,12 @@ Thumbs.db
 .ipynb_checkpoints/
 
 # IDE-specific files
-.vscode/
 .idea/
 *.iml
 
 # Compiled C extensions
 *.so
 
-# Images or generated outputs
-output_image.jpg
-*.png
-*.jpg
 
 # Build directories (for compiled files or CMake builds)
 build/
@@ -50,3 +45,7 @@ coverage/
 
 # Backup files
 *.~*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
