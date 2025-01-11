@@ -1,0 +1,52 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment directories
+env/
+venv/
+.Python
+
+# pipenv environment files
+Pipfile.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files and logs
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Jupyter Notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Compiled C extensions
+*.so
+
+# Images or generated outputs
+output_image.jpg
+*.png
+*.jpg
+
+# Build directories (for compiled files or CMake builds)
+build/
+dist/
+*.egg-info
+
+# Test coverage files
+coverage/
+*.cover
+*.py,cover
+
+# Backup files
+*.~*
